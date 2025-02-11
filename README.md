@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm showq 👋
 
-<!--
-**showq0/showq0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 **Software Engineer | Backend Developer**
 
-Here are some ideas to get you started:
+## My Tech Stack🤖
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Backend Development:** API development, database management (SQL), .NET, Django, Laravel
+- **Programming Languages:Ruby,** C++, Java, Python, C#, JavaScript
+- **Problem Solving & Critical Thinking:** analytical skills, innovative problem-solving techniques
+- **Version Control:** Git, GitHub
+
+## Let's Connect 📢
+
+- ✉ [Email](https://www.notion.so/showqbalawneh@gmail.com)
+- 💌 [LinkedIn](https://www.linkedin.com/in/showq-balawneh-506b10122/)
