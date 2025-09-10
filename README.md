@@ -5,7 +5,7 @@
 ## My Tech Stack🤖
 
 - **Backend Development:** API development, database management (SQL), .NET, Django, Laravel
-- **Programming Languages:Ruby,** C++, Java, Python, C#, JavaScript
+- **Programming Languages:** C++, Java, Python, C#, JavaScript
 - **Problem Solving & Critical Thinking:** analytical skills, innovative problem-solving techniques
 - **Version Control:** Git, GitHub
 
