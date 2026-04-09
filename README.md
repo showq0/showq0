@@ -11,5 +11,5 @@
 
 ## Let's Connect 📢
 
-- ✉ [Email](https://www.notion.so/showqbalawneh@gmail.com)
+- ✉ [Email](showqbalawneh@gmail.com)
 - 💌 [LinkedIn](https://www.linkedin.com/in/showq-balawneh-506b10122/)
